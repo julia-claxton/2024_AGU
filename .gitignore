@@ -1,0 +1,16 @@
+# Raw data files
+*.cdf
+
+# OS crap
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.icloud
+
+# Symlinks to my other libraries
+/code/EPPBackscatterSimulation
+/code/Julia_ELFIN_Tools
